@@ -26,8 +26,6 @@ With standard kernel 4.2.0.27
 
 ![Screenshots](http://i.imgur.com/XTK94Lx.jpg)
 
-![Screenshots](http://i.imgur.com/h5izIMm.jpg)
-
 ![Screenshots](http://i.imgur.com/6gPeGoc.png)
 
 ![Screenshots](http://i.imgur.com/D1QRFtC.jpg)
