@@ -105,7 +105,6 @@ sudo apt-get install -y catfish clementine curl focuswriter frei0r-plugins geary
 sudo apt-get install -y hardinfo inkscape inxi kazam openshot p7zip-full ppa-purge screenruler scrot shutter slurm
 sudo apt-get install -y thunar vnstat winbind screenfetch plank
 sudo apt-get install -y browser-plugin-vlc vlc
-sudo apt-get install -y unity-tweak-tool
 sudo apt-get install -y compizconfig-settings-manager
 
 
