@@ -17,20 +17,27 @@ using yltra flat icons from https://github.com/erikdubois/yltra-flat-icon-theme
 
 With standard kernel 4.2.0.27
 
+![Screenshots](http://i.imgur.com/ambr4rf.jpg)
 
-![Screenshots](http://i.imgur.com/cGSI7tN.jpg)
+![Screenshots](http://i.imgur.com/op0UtmP.jpg)
 
-![Screenshots](http://i.imgur.com/KQrrwBT.jpg)
+![Screenshots](http://i.imgur.com/ctvvWOG.png)
 
-![Screenshots](http://i.imgur.com/dUCuKWy.jpg)
+![Screenshots](http://i.imgur.com/D8AUkCX.jpg)
 
-![Screenshots](http://i.imgur.com/y9unaad.jpg)
+![Screenshots](http://i.imgur.com/XTK94Lx.jpg)
 
-![Screenshots](http://i.imgur.com/RECNCsN.jpg)
+![Screenshots](http://i.imgur.com/h5izIMm.jpg)
 
-![Screenshots](http://i.imgur.com/hA22sLh.jpg)
+![Screenshots](http://i.imgur.com/6gPeGoc.png)
 
-![Screenshots](http://i.imgur.com/s0XqYrY.jpg)
+![Screenshots](http://i.imgur.com/D1QRFtC.jpg)
+
+![Screenshots](http://i.imgur.com/pMfGNXd.jpg)
+
+![Screenshots](http://i.imgur.com/IEbbJ8v.jpg)
+
+![Screenshots](http://i.imgur.com/rPzryRd.jpg)
 
 
 More information about how to change the colours of the icons your self can be found on
