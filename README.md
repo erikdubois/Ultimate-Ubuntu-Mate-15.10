@@ -104,12 +104,12 @@ Some examples of the kernel test.
 
 # Kernel 4.4.1
 
-![Screenshots](xxx)
+![Screenshots](http://i.imgur.com/CxGQ3ME.png)
 
 
 # kernel 4.5
 
-![Screenshots](xxx)
+![Screenshots](http://i.imgur.com/tmQW86x.jpg)
 
 
 
