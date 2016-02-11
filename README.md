@@ -36,6 +36,11 @@ With standard kernel 4.2.0.27
 
 ![Screenshots](http://i.imgur.com/rPzryRd.jpg)
 
+![Screenshots](http://i.imgur.com/nUHBGZu.jpg)
+
+![Screenshots](http://i.imgur.com/jwou8Zy.jpg)
+
+
 
 More information about how to change the colours of the icons your self can be found on
 http://erikdubois.be
