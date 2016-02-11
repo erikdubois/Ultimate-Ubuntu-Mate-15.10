@@ -102,22 +102,14 @@ Check on Nvidia.com which driver you should use.
 Some examples of the kernel test.
 
 
-# Kernel 3.19.8 ckt14
-
-![Screenshots](http://i.imgur.com/YpgGPix.jpg)
-
-# Kernel 4.3.3
-
-![Screenshots](http://i.imgur.com/63d51mu.jpg)
-
 # Kernel 4.4.1
 
-![Screenshots](http://i.imgur.com/7N2Q9Mj.jpg)
+![Screenshots](xxx)
 
 
 # kernel 4.5
 
-![Screenshots](http://i.imgur.com/L8sz995.jpg)
+![Screenshots](xxx)
 
 
 
