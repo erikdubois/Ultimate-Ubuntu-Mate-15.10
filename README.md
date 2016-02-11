@@ -17,7 +17,6 @@ using yltra flat icons from https://github.com/erikdubois/yltra-flat-icon-theme
 
 With standard kernel 4.2.0.27
 
-![Screenshots](http://i.imgur.com/ambr4rf.jpg)
 
 ![Screenshots](http://i.imgur.com/op0UtmP.jpg)
 
