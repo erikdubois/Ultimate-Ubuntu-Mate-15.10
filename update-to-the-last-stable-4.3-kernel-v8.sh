@@ -102,14 +102,9 @@ sudo dpkg -i linux*
 #sudo apt-get update 
 #sudo apt-get install cinnamon -y
 
+rm linux-*
 
 #ending
-mkdir $HOME/Upload
-sudo apt-get -y update
-sudo apt-get -f -y install
-sudo apt-get -y upgrade
-sudo apt-get -y autoremove
-sudo apt-get -y autoclean
 
 
 

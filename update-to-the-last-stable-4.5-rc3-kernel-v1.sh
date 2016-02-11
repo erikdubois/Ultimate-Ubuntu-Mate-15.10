@@ -91,7 +91,7 @@ sudo dpkg -i linux*
 # check on nvdia.com what driver you should use with your hardware
 
 
-
+rm linux-*
 
 #ending
 

@@ -91,7 +91,7 @@ sudo dpkg -i linux*
 # sudo apt-get install nvidia-340 -y
 # check on nvdia.com what driver you should use with your hardware
 
-
+rm linux-*
 
 #ending
 
