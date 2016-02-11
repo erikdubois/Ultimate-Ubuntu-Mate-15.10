@@ -1,4 +1,4 @@
-# Ultimate Ubuntu 15.10
+# Ultimate Ubuntu Mate 15.10
 
 We start our journey with a clean install.
 
