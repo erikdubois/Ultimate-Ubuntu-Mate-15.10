@@ -166,6 +166,8 @@ Start up conky-manager and choose the conky to your liking.
 
 You should arrive at something similar depending on theme and icons choices: 
 
+Images are from standard Ubuntu 15.10 . Images of Ubuntu Mate will be added at later date.
+
 ![Screenshots](http://i.imgur.com/hAHUtWu.jpg)
 
 
