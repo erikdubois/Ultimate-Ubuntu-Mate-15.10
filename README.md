@@ -3,7 +3,7 @@
 We start our journey with a clean install.
 
 
-![Screenshots](http://i.imgur.com/5c0QqIx.png)
+![Screenshots](http://i.imgur.com/8TKzTOX.jpg)
 
 
 and will end in something like these.
