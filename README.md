@@ -17,6 +17,8 @@ using yltra flat icons from https://github.com/erikdubois/yltra-flat-icon-theme
 
 With standard kernel 4.2.0.27
 
+You can colour Sardi Flexible to any colour you like. With a script you can change it in two seconds.
+Here I choose to color the icons red like the lava.
 
 ![Screenshots](http://i.imgur.com/op0UtmP.jpg)
 
